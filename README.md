@@ -6,3 +6,4 @@
 ## Challenge Summary
 * Code Challenge 6: Linked List - Adding Values To A Link List
 * Code Challenge 7: Linked List - Kth From The End Of A Link List
+* Code Challenge 8: Linked List - Merging Two Linked Lists
